@@ -7,6 +7,7 @@ items:
  - immerjs/immer
  - davidkpiano/xstate
  - cerebral/cerebral
+ - cerebral/overmind
  - storeon/storeon
  - artalar/reatom
 display_name: JavaScript State Management Tools
